@@ -1,0 +1,13 @@
+customer-churn-prediction/
+│
+├── data/
+│   └── Telco-Customer-Churn.csv
+│
+├── model/
+│   ├── churn_model.pkl
+│   └── scaler.pkl
+│
+├── app.py
+├── churn_prediction.ipynb
+├── requirements.txt
+├── README.md
